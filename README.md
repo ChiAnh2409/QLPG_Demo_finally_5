@@ -1,4 +1,4 @@
-# Demo hoàn tất các chức năng cơ bản Lần 11 (25/12).
+# Demo hoàn tất các chức năng cơ bản Lần 12 (28/12).
 # WebApp Quản Lý Phòng Gym
 Use C# ASP.NET, SQL server.
 + Dự án bao gồm:
@@ -37,8 +37,7 @@ Giao diện login
 ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/5d47ceaa-959b-4c3e-8420-466691089a8b)
 
 Giao diện trang quản lý 
-  - Thông tin quản lý:
-  -  <img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
+  - Thông tin quản lý: <img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
   
        Giao diện thống kê theo năm: ![image](https://github.com/ChiAnh2409/QLPG_Demo_finally_5/assets/118975118/1b69a3da-b175-42be-ae3a-4fbb7a5fbf6c)
     
