@@ -39,6 +39,7 @@ Giao diện login
 Giao diện trang quản lý 
   - Thông tin quản lý: <img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
        Giao diện thống kê theo năm: ![image](https://github.com/ChiAnh2409/QLPG_Demo_finally_5/assets/118975118/1b69a3da-b175-42be-ae3a-4fbb7a5fbf6c)
+    
        Giao diện bảng doanh thu theo tháng: ![image](https://github.com/ChiAnh2409/QLPG_Demo_finally_5/assets/118975118/0da377f2-887e-42c4-91d6-eea2b721334e)
     
   - Trang quản lý của lễ tân:   <img width="471" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/b15e0ea8-3229-4ef6-b608-b7f774e80cf2">
@@ -49,6 +50,7 @@ Giao diện trang quản lý
   
 Giao diện trang quản lý gói tập 
 Giao diện trang Đăng Ký Gói Tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_finally_5/assets/118975118/76efad40-bbfc-46cd-98e4-3dad57ea2e28)
+
 Giao diện trang quản lý Thành Viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/a3155311-d8d4-4866-a1ae-27d47654ff2d)
 Giao diện trang quản lý Hội Viên
 - hội viên nào có tình trạng là "hết hạn" có nghĩa là gói tập đã hết hạn.
@@ -56,7 +58,9 @@ Giao diện trang quản lý Hội Viên
 - Trang gia diện điểm danh và gia hạn : ![image](https://github.com/ChiAnh2409/QLPG_Demo_finally_5/assets/118975118/7bea4aa4-9d79-49ae-817c-b100f06929f1)
 
 Giao diện gia hạn gói tập cho hội viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_third/assets/118975118/dc795e19-fa04-4a67-8991-ca8519ca0d6f)
+
 Giao diện điểm danh của hội viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/0734c8c3-93ac-4b4f-bb33-0284d4dedad7)
+
 Giao diện trang quản lý Người Dùng ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/8ee2257e-ba4a-4fb2-ba89-5459ed1e55c2)
 
 
