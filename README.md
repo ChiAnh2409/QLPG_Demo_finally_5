@@ -6,14 +6,14 @@ Use C# ASP.NET, SQL server.
  - Trang giao diện đăng ký tập thử 1 ngày miễn phí cho khách hàng. 
  - Trang quản lý bao gồm: các chức năng thêm, xóa, sửa, tìm kiếm theo tên, phân quyền : quản lý, tiếp tân, cskh.
  - Quản lý thành viên: khách hàng nút bấm đăng ký ngay trên form đăng ký tập thử sẽ được lưu trực tiếp vào bảng thành viên (lưu cả ngày ĐK)
- - Quản lý hội viên: hiển thị thông tin cơ bản và tình trạng tham gia gói tập của hội viên (tên hội viên được chọn từ bảng thành viên), thêm cột điểm danh và gia hạn: điểm danh và xem chi tiết điểm danh của hội viên, gia hạn gói tập cũ.
+ - Quản lý hội viên: hiển thị thông tin cơ bản và tình trạng tham gia gói tập của hội viên (tên hội viên được chọn từ bảng thành viên), thêm cột điểm danh và gia hạn: điểm danh và xem chi tiết điểm danh của hội viên kèm theo tên gói tập (chưa xong), gia hạn gói tập cũ dựa vào ngày kết thúc của gói tập đó, không còn xét dựa vào tình trạng của hội viên nữa (xong). Đặc biệt xóa hội viên chỉ được khi thêm mới hội viên mà chưa đăng ký gói tập.
  - Quản lý gói tập: gói tập (chi phí, thời gian hiệu lực). 
  - Quản lý đăng ký gói tập: biết được hội viên A đã đăng ký được bao nhiêu gói tập và có thể dựa vào đó để tính thống kê doanh thu.
  - Quản lý người dùng bao gồm: thông tin của người dùng cơ bảng (admin có thể phân quyền đăng nhập)
  - Quản lý lịch trình: điểm danh sẽ lưu lại thông tin ngày giờ mà hội viên đến phòng tập.
  - Gia hạn gói tập: hội viên muốn tập gói tập cũ thì người quản lý sẽ gia hạn theo tên gói tập cũ và tên hội viên đó. Sau khi gia hạn thì tình trạng của hội viên sẽ là hoạt động.
  - Điểm danh cho hội viên, xem chi tiết buổi tập.
- - Thống kê doanh thu: đã hoàn thiện xong chức năng. (hiển thị được sơ đồ cột)
+ - Thống kê doanh thu: đã hoàn thiện xong chức năng. (hiển thị được sơ đồ cột và bảng dữ liệu cùng năm đã chọn)
  - Các phần quan trọng như: số lượng KH đăng ký tập thử, số lượng hội viên đăng ký mới trong ngày, số lượng hội viên hết hạn gói tập, tỷ số chuyển đổi,...
  - Thông báo đăng ký tập thử miễn phí với nội dung của khách hàng gồm: tên, gói, sđt, ngày đăng ký gói tập.
  - Xuất file excel thống kê doanh thu từng tháng theo năm (chọn xem theo năm và xuất theo năm chọn luôn)
@@ -37,7 +37,8 @@ Giao diện login
 ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/5d47ceaa-959b-4c3e-8420-466691089a8b)
 
 Giao diện trang quản lý 
-  - Thông tin quản lý: <img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
+  - Thông tin quản lý:
+    <img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
   
        Giao diện thống kê theo năm: ![image](https://github.com/ChiAnh2409/QLPG_Demo_finally_5/assets/118975118/1b69a3da-b175-42be-ae3a-4fbb7a5fbf6c)
     
